@@ -30,7 +30,7 @@
 </p>
 
 <hr>
-<h3 align="left">Future Focus: </h3>
+<h3 align="left">Learning Goals: </h3>
 
 <p align='center'>
 	<img src="https://skillicons.dev/icons?i=cpp,mongodb,nextjs,docker,kubernetes"/>
