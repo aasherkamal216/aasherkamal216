@@ -33,7 +33,7 @@
 <h3 align="left">Learning Goals: </h3>
 
 <p align='center'>
-	<img src="https://skillicons.dev/icons?i=cpp,mongodb,nextjs,docker,kubernetes"/>
+	<img src="https://skillicons.dev/icons?i=cpp,mongodb,typescript,nextjs,docker,kubernetes"/>
 
 <hr>
 
