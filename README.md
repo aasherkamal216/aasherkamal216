@@ -20,7 +20,7 @@
 <h3 align="left">Languages, Frameworks and Tools 🛠️ : </h3>
 
 <p align='center'>
-	<img src="https://skillicons.dev/icons?i=python,fastapi,supabase,postgres"/>
+	<img src="https://skillicons.dev/icons?i=python,fastapi,supabase,postgres,docker"/>
 	<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 	
 </p>
@@ -33,7 +33,7 @@
 <h3 align="left">Learning Goals: </h3>
 
 <p align='center'>
-	<img src="https://skillicons.dev/icons?i=cpp,mongodb,typescript,nextjs,docker,kubernetes"/>
+	<img src="https://skillicons.dev/icons?i=cpp,mongodb,typescript,nextjs,kubernetes"/>
 
 <hr>
 
