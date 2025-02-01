@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Cloud Applied GenAI**
 
-- 💬 Ask me about **Python, FastAPI, Streamlit, Generative AI, Langchain, LangGraph**
+- 💬 Ask me about **Python, FastAPI, Agentic AI, Generative AI, Langchain, LangGraph, Streamlit**
 
 - 📫 How to reach me **aasherkamal786@gmail.com**
   
