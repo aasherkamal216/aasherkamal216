@@ -21,7 +21,7 @@
 
 <p align='center'>
 	<img src="https://skillicons.dev/icons?i=python,fastapi,supabase,postgres,docker"/>
-	<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+	<img src="https://skillicons.dev/icons?i=git,github,vscode,typescript,nextjs," />
 	
 </p>
 <p align='center'>
@@ -33,11 +33,6 @@
 <h3 align="left">Learning Goals: </h3>
 
 <p align='center'>
-	<img src="https://skillicons.dev/icons?i=cpp,mongodb,typescript,nextjs,kubernetes"/>
+	<img src="https://skillicons.dev/icons?i=mongodb,kubernetes"/>
 
 <hr>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AasherKamal216&show_icons=true&locale=en&layout=compact&theme=radical" alt="aasherkamal216" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AasherKamal216&show_icons=true&locale=en&theme=radical" alt="AasherKamal216" /></p>
-
