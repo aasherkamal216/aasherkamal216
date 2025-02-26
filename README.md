@@ -33,6 +33,6 @@
 <h3 align="left">Learning Goals: </h3>
 
 <p align='center'>
-	<img src="https://skillicons.dev/icons?i=mongodb,kubernetes"/>
+	<img src="https://skillicons.dev/icons?i=mongodb,aws,kafka,kubernetes"/>
 
 <hr>
