@@ -39,3 +39,11 @@
 	<img src="https://skillicons.dev/icons?i=mongodb,aws,kafka,kubernetes"/>
 
 <hr>
+
+<h3 align="left">Statistics: 📈</h3>
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=aasherkamal216&show_icons=true&theme=vue-dark&border_color=3DA47A&border_radius=8)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aasherkamal216&theme=vue-dark&border_radius=8&border=3DA47A)](https://git.io/streak-stats)
+
+<br>
