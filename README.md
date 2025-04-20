@@ -1,12 +1,12 @@
 <h1 align="center">Hi👋🏻, I'm Aasher Kamal</h1>
-<h3 align="center">A passionate Generative AI Developer hailing from D.I.Khan, Pakistan</h3>
+<h3 align="center">A passionate Generative & Agentic AI Developer hailing from D.I.Khan, Pakistan</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 🔭 I’m currently working on **GenAI Projects**
+- 🔭 I’m currently working on **Agentic AI Projects**
 
-- 🌱 I’m currently learning **Cloud Applied GenAI**
+- 🌱 I’m currently learning **Cloud Applied Agentic AI**
 
-- 💬 Ask me about **Python, FastAPI, Agentic AI, Generative AI, Langchain, LangGraph, RAG, Streamlit**
+- 💬 Ask me about **Python, FastAPI, Agentic AI, Generative AI, Langchain, LangGraph, OpenAI Agents SDK, RAG systems**
 
 - 📫 How to reach me **aasherkamal786@gmail.com**
   
