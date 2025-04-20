@@ -26,7 +26,10 @@
 </p>
 <p align='center'>
 	<a href="https://www.langchain.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-BlZ3JZZSlROHYZNI6JTvNh-LgLV9-TtnUA&s" alt="langchain" width="40" height="40"/> </a>
-	<a href="https://streamlit.io" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="40" height="35"/> 
+	<a href="https://chainlit.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/128686189?s=200&v=4" alt="chainlit" width="40" height="40"/> 
+	<a href="https://openai.github.io/openai-agents-python/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14957082?v=4" alt="OpenAI Agents" width="40" height="40"/> 
+	<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDKmSgL7UJ6sstMUQTtjI2iDN7ClN2jRZ5Q&s" width="40" height="40"/> 
+	<a href="https://www.crewai.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtg029pb---rde55bLC81UxjtTfNcVz06_7g&s" width="40" height="40"/> 
 </p>
 
 <hr>
