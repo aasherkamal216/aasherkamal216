@@ -46,7 +46,7 @@
 <br>
 <img src="https://streak-stats.demolab.com?user=aasherkamal216&theme=vue-dark&border_radius=8&border=3DA47A)](https://git.io/streak-stats" alt="GitHub Streak" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasherkamal216&show_icons=true&locale=en&theme=vue-dark&border_color=3DA47A&border_radius=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasherkamal216&show_icons=true&layout=compact&locale=en&theme=vue-dark&border_color=3DA47A&border_radius=8" alt="Top Languages" />
 </p>
 
 
