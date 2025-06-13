@@ -39,14 +39,3 @@
 	<img src="https://skillicons.dev/icons?i=mongodb,aws,kafka,kubernetes"/>
 
 <hr>
-
-<h3 align="left">GitHub Stats: 📈</h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aasherkamal216&show_icons=true&theme=vue-dark&border_color=3DA47A&border_radius=8" />
-<br>
-<img src="https://streak-stats.demolab.com?user=aasherkamal216&theme=vue-dark&border_radius=8&border=3DA47A)](https://git.io/streak-stats" alt="GitHub Streak" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasherkamal216&show_icons=true&layout=compact&locale=en&theme=vue-dark&border_color=3DA47A&border_radius=8" alt="Top Languages" />
-</p>
-
-
